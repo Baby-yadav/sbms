@@ -3,8 +3,8 @@ package com.info.main.bindings;
 import java.time.LocalDate;
 
 public class Reservation {
-	
-	private String Name;
+
+	private String Name_Ofpeopel;
 	private String aadharNo;
 	private String dob;
 	private LocalDate  date_of_journey;
